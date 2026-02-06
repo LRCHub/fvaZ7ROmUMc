@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "PRESENT (Japanese ver.)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-06T14:17:20.519863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PRESENT - Japanese ver.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_PRESENT_-_Japanese_ver._Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PRESENT (Japanese ver.) - Present (Japanese Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_PRESENT_(Japanese_ver.)_-_Present_(Japanese_Version)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PRESENT (Japanese ver.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_PRESENT_(Japanese_ver._Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PRESENT - Japanese ver.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_PRESENT_-_Japanese_ver._Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PRESENT - Japanese ver",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_PRESENT_-_Japanese_ver_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PRESENT (Japanese ver.) - Present (Japanese Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_PRESENT_(Japanese_ver.)_-_Present_(Japanese_Version)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PRESENT (Japanese ver.)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_PRESENT_(Japanese_ver.)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PRESENT - Japanese ver.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_PRESENT_-_Japanese_ver._Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
